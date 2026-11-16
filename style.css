@@ -1,0 +1,15 @@
+/* CSS RESET */
+/* CSS SHOULD BE ON TOP OF THE PAGE - in HEAD TAG */
+/* SCRIPT should be at the end of the code */
+/* @import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap') */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
