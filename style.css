@@ -13,3 +13,20 @@ html {
     scroll-behavior: smooth;
 }
 
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* Font-fallback */
+    /* CDN */
+    /* Download */
+}
+
+/* UTILITY CLASSES START */
+.container {
+    width: min(1150px, 90%);
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+/* UTILITY CLASSES END */
